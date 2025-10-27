@@ -5,3 +5,5 @@ opencv-python
 Pillow
 matplotlib
 ultralytics
+tqdm
+seaborn
